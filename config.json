@@ -1,8 +1,8 @@
 {
-  "TOKEN": "",
+  "TOKEN": "1365272498:AAEGjYxQlit0s8yOSFhJ3zyxk9SI6ZMdR28",
   "AUTH": {
-    "ENABLE": false,
-    "PASSWORD": "",
+    "ENABLE": true,
+    "PASSWORD": "1212",
     "USERS": []
   },
   "SPOTDL_DOWNLOADER": false,
